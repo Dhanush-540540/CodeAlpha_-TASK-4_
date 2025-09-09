@@ -1,5 +1,5 @@
 # CodeAlpha_Task4_DockerWebServer
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ashwin-CloudCraft/CodeAlpha_Task4_DockerWebServer)
+
 CodeAlpha DevOps Internship Task 4 – Docker Web Server
 
 ✅ Task 4: Docker Web Server
@@ -90,12 +90,6 @@ Visit http://localhost:8080 in your browser.
 You should see:
 Hello from CodeAlpha Docker Web Server!
 
-📹 Demo Video
-https://www.linkedin.com/posts/ashwin-kale-332937265_codealpha-devops-docker-activity-7352621534294786048-KHQi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEEZoBYBYU_54ZbHuFhMKo1IAHJFJvPCTP4
-
-📌 Author
-Ashwin Kale
-LinkedIn
 
 ⭐ Result
 ✅ Successfully created and ran a Dockerized web server
